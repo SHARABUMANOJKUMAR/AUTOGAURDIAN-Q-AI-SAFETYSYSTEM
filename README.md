@@ -156,3 +156,15 @@ This project is developed as part of **EY Techathon 6.0** for academic and innov
 
 ## ✨ Final Statement
 > **AutoGuardian Q-AI doesn’t just monitor vehicles — it actively prevents accidents, protects lives, and shapes the future of road safety.**
+
+
+
+![EY Techathon](https://img.shields.io/badge/EY-Techathon%206.0-gold)
+![Hackathon](https://img.shields.io/badge/Hackathon-Innovation-orange)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Lovable.ai-purple)
+![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent%20AI-success)
+![AI](https://img.shields.io/badge/AI-Real--Time%20Risk%20Detection-red)
+![Quantum](https://img.shields.io/badge/Quantum-Quantum--Inspired%20Optimization-blueviolet)
+![Voice](https://img.shields.io/badge/Voice-TTS%20Alerts-brightgreen)
+![Responsive](https://img.shields.io/badge/UI-Mobile%20%26%20Desktop%20Responsive-informational)
